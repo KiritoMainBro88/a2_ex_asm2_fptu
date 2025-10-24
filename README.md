@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧠 CEA201 - Computer Organization and Architecture  
 
@@ -96,9 +94,6 @@ Feel free to reference, learn, or adapt — but please **do not submit identical
 ## ❤️ Acknowledgements  
 Thanks to the CEA201 teaching team at **FPT University** for guiding us through the fascinating world of computer architecture.  
 Also, gratitude to everyone who helped make assembly coding a bit less intimidating.
-
----
-
 > “The closer you get to the metal, the more you respect the machine.”
 ```
 
